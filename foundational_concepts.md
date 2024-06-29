@@ -20,7 +20,7 @@ Fundamentally, there are 3 kinds of loops. But python support 2 types of looping
 
 >**Key Idea:** The for loop is like a precise counter that says, "Do this action this many times."
 
-> **Note:** n in programming is usually used to refer to a size or quantity of input data. Think of it as an arbituary number that represent any number that comes to mind.  
+> **Note:** n in programming is usually used to refer to a size or quantity of input data. Think of it as an arbitrary number that represent any number that comes to mind.  
 
 2. `While loop`: This is used to repeat and execution of a code block while a particular condition is satisfied(remains **TRUE**). It is you go-to-tool when repitition depends on a condition being true.  
 

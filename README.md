@@ -20,8 +20,27 @@ Welcome to your one-stop shop for mastering algorithms in Python! This repositor
 * **Practice Problems:** Solidify your knowledge by applying algorithms to solve interesting challenges.
 * **Discussions and Questions:**  Feel free to start discussions or ask questions in the [Discussions] tab. We're a community of learners!
 
+## ✨ Data Structures Covered (so far)
+
+>A Data Structure(DS) is a a *specialized* way of organizing and *storing* data so that it can be used effectively.
+
+Data Structures are important because they help in the following:
+
+- They are essential ingredients in creating fast and powerful algorithms
+- They help to manage and organize data
+- They make code cleaner and easier to understand.
+
+There is a famous saying: "Data Structures can be the difference between having an **OK** product and an **OUTSTANDING** one." They are at the core of implementing highly efficient and optimized algorithms
+
+* **[Arrays and Strings](/arrays_and_strings/fundamentals.md):** Pattern Matching,Algorithmic Thinking and Intuition Building
+* **Sorting:** Bubble sort, insertion sort, merge sort, quicksort...
+* **Searching:** Linear search, binary search...
+* **Graph Algorithms:** Breadth-first search (BFS), depth-first search (DFS), Dijkstra's algorithm...
+* **Dynamic Programming:** Fibonacci sequence, knapsack problem...
+* ... (More algorithms to come!)
 ## ✨ Algorithms Covered (so far)
 * **[Foundational Concepts](/foundational_concepts.md):** Pattern Matching,Algorithmic Thinking and Intuition Building
+* **[Arrays and Strings](/arrays_and_strings.md):** Pattern Matching,Algorithmic Thinking and Intuition Building
 * **Sorting:** Bubble sort, insertion sort, merge sort, quicksort...
 * **Searching:** Linear search, binary search...
 * **Graph Algorithms:** Breadth-first search (BFS), depth-first search (DFS), Dijkstra's algorithm...
