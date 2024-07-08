@@ -3,9 +3,13 @@
 
 These foundational concept provide a background into algorithimic thinking. I believe it provides the base knowledge to guide your reasoning and builds your intiution into problem solving.
 
-The ideas represented from this section are taken from strivers a2z-dsa course.  
+The code challenges represented from this section are taken from strivers a2z-dsa course.  
 Sources:https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/  
 
+
+## Always Remember this:
+
+![Foundational Concept of Computation](/foundational_concepts/resources/master_ds_algo_1.png)
 
 # Part 1: Understanding various looping constructs
 
