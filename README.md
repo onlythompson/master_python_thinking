@@ -22,7 +22,7 @@ Welcome to your one-stop shop for mastering algorithms in Python! This repositor
 
 ## ✨ Data Structures Covered (so far)
 
->A Data Structure(DS) is a a *specialized* way of organizing and *storing* data so that it can be used effectively.
+>A Data Structure(DS) is a *specialized* way of organizing and *storing* data so that it can be used effectively.
 
 Data Structures are important because they help in the following:
 
@@ -32,15 +32,52 @@ Data Structures are important because they help in the following:
 
 There is a famous saying: "Data Structures can be the difference between having an **OK** product and an **OUTSTANDING** one." They are at the core of implementing highly efficient and optimized algorithms
 
-* **[Arrays and Strings](/arrays_and_strings/fundamentals.md):** Pattern Matching,Algorithmic Thinking and Intuition Building
-* **Sorting:** Bubble sort, insertion sort, merge sort, quicksort...
-* **Searching:** Linear search, binary search...
-* **Graph Algorithms:** Breadth-first search (BFS), depth-first search (DFS), Dijkstra's algorithm...
-* **Dynamic Programming:** Fibonacci sequence, knapsack problem...
-* ... (More algorithms to come!)
-## ✨ Algorithms Covered (so far)
-* **[Foundational Concepts](/foundational_concepts.md):** Pattern Matching,Algorithmic Thinking and Intuition Building
-* **[Arrays and Strings](/arrays_and_strings.md):** Pattern Matching,Algorithmic Thinking and Intuition Building
+* **[Arrays and Strings](/arrays_and_strings/fundamenetals.md):** Fundamental knowledge and concepts
+
+* **[Linked Lists](/linked_lists/fundamentals.md):** Master the art of chaining data elegantly and efficiently.
+
+* **[Stacks and Queues](/stacks_and_queues/fundamentals.md):** Harness the power of Last-In-First-Out and First-In-First-Out structures.
+
+* **[Trees](/trees/fundamentals.md):** Branch out into hierarchical data organization and traversal techniques.
+
+* **[Binary Trees](/binary_trees/fundamentals.md):** Explore the balance of left and right in this fundamental tree structure.
+
+* **[Binary Search Trees (BST)](/binary_search_trees/fundamentals.md):** Unlock rapid search, insertion, and deletion in ordered data sets.
+
+* **[Heaps](/heaps/fundamentals.md):** Dive into priority management with these specialized tree-based structures.
+
+* **[Hash Tables](/hash_tables/fundamentals.md):** Discover lightning-fast data retrieval through key-value magic.
+
+* **[Graphs](/graphs/fundamentals.md):** Navigate complex relationships and connections in data networks.
+
+* **[Trie](/trie/fundamentals.md):** Efficiently store and search string data with this powerful prefix tree.
+
+* **[Segment Trees](/segment_trees/fundamentals.md):** Conquer range query problems with this versatile tree structure.
+
+* **[Fenwick Trees (Binary Indexed Trees)](/fenwick_trees/fundamentals.md):** Master cumulative frequency tables and range sum queries.
+
+* **[Disjoint Set (Union-Find)](/disjoint_set/fundamentals.md):** Manage grouped elements with this efficient data structure.
+
+* **[AVL Trees](/avl_trees/fundamentals.md):** Maintain balance in search operations with self-balancing binary search trees.
+
+* **[Red-Black Trees](/red_black_trees/fundamentals.md):** Ensure efficiency with this self-balancing tree's unique coloring system.
+
+* **[B-Trees](/b_trees/fundamentals.md):** Scale your data management for large datasets and file systems.
+
+
+## ✨ Algorithms  Techniques Covered (so far)
+* **[Foundational Concepts](/foundational_concepts.md):** Unlock the secrets of Pattern Matching, master Algorithmic Thinking, and cultivate your Problem-Solving Intuition
+* **[Brute Force](/arrays_and_strings.md):** The intuition guide to problem-solving. The craftman's pliers
+* **[Two Pointer Technique](/arrays_and_strings.md):** The Swiss Army Knife of problem-solving. Harness the elegance of dual indices to slice through array challenges with precision and speed.
+* **[Sliding Technique](/arrays_and_strings.md):** Glide through arrays with finesse, optimizing subarray operations with this dynamic technique.
+* **[K-Way Merge](/arrays_and_strings.md):** A vital tool in your technique toolbox
+* **[Prefix and Suffix Thinking](/arrays_and_strings.md):** The unusual allen key. Unveil hidden patterns and optimize calculations by mastering cumulative computations from both ends
+* **[Two Pass Approach](/arrays_and_strings.md):**  Reveal the unseen in complex problems by strategically traversing data multiple times.
+* **[Subsets](/arrays_and_strings.md):** A convention to note. Explore the power of combinations and unleash new perspectives on problem-solving.
+* ... (More algorithms techniques to come!)
+
+
+## Algorithms Covered (so far)
 * **Sorting:** Bubble sort, insertion sort, merge sort, quicksort...
 * **Searching:** Linear search, binary search...
 * **Graph Algorithms:** Breadth-first search (BFS), depth-first search (DFS), Dijkstra's algorithm...
