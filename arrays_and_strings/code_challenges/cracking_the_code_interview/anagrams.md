@@ -19,8 +19,8 @@ Develop an efficient algorithm to determine if string 's' is a permutation (anag
 
 ### Understanding Permutations
 
-A permutation is an arrangement of elements in different orders. For example, the permutations of "ABC" include "BCA", "CAB", "ACB", etc.
-
+A permutation is an arrangement of elements in different orders. For example, the permutations of "ABC" include "BCA", "CAB", "ACB", etc.  
+[Permutations Technique](/techniques/permutations.md)  
 Your first instinct might be to reach for the trusty Brute Force approach - our metaphorical craftsman's pliers. "Let's generate all permutations of 's' and see if 't' matches any of them!" you might think. But hold on, intrepid problem-solver! There's a twist in this tale...  
 
 ### The Brute Force Trap

@@ -74,6 +74,8 @@ There is a famous saying: "Data Structures can be the difference between having 
 * **[Prefix and Suffix Thinking](/arrays_and_strings.md):** The unusual allen key. Unveil hidden patterns and optimize calculations by mastering cumulative computations from both ends
 * **[Two Pass Approach](/arrays_and_strings.md):**  Reveal the unseen in complex problems by strategically traversing data multiple times.
 * **[Subsets](/arrays_and_strings.md):** A convention to note. Explore the power of combinations and unleash new perspectives on problem-solving.
+* **[Permutations](/techniques/permutations.md):** Unlock the Combinatorial Secrets! 🔀✨ Master the art of rearrangement and harness the power of ordered possibilities in your algorithmic arsenal.
+
 * ... (More algorithms techniques to come!)
 
 
