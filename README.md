@@ -38,7 +38,7 @@ There is a famous saying: "Data Structures can be the difference between having 
 
 * **[Stacks and Queues](/stack_and_queue/stack_and_queue.md):** Harness the power of Last-In-First-Out and First-In-First-Out structures.
 
-* **[Trees](/trees/fundamentals.md):** Branch out into hierarchical data organization and traversal techniques.
+* **[Trees](/trees/tree.md):** Branch out into hierarchical data organization and traversal techniques.
 
 * **[Binary Trees](/trees/binarty_tree.md):** Explore the balance of left and right in this fundamental tree structure.
 
@@ -62,7 +62,7 @@ There is a famous saying: "Data Structures can be the difference between having 
 
 * **[Red-Black Trees](/trees/red_black._tree.md):** Ensure efficiency with this self-balancing tree's unique coloring system.
 
-* **[B-Trees](/trees/b_trees.md):** Scale your data management for large datasets and file systems.
+* **[B-Trees](/b_tree/b_tree.md):** Scale your data management for large datasets and file systems.
 * **[Suffix-Trees](/trees/suffix_tree.md):** Unravel the hidden patterns in strings for lightning-fast substring searches.
 * **[R-Tree](/r_tree/r_tree.md):** Navigate multidimensional space efficiently with this hierarchical spatial index.
 * **[Vertex Buffer](/vertex_buffer/vertex_bufeer.md):** Accelerate graphics rendering by optimizing geometry data for GPU processing.

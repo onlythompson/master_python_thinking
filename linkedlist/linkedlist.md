@@ -101,3 +101,13 @@ def remove_next_car(current_car):
         current_car._next = current_car._next._next
 
 ```
+
+## Other Necessary Types Linked Lists To Learn:
+
+* **[Doubly Linked List](/linkedlist/doubly_linkedlist.md):** Understand the power of bidirectional traversal and efficient insertions/deletions at both ends.  
+
+    Doubly Linked Lists allow movement in both directions and quick modifications at either end, making them versatile for many applications.
+
+* **[Circular Linked List](/linkedlist/circular_linkedlist.md):** Understand the power of endless cycles and efficient circular data processing.  
+
+    Circular Linked Lists connect the last node back to the first, enabling continuous cycling through data and efficient implementation of circular buffers or round-robin scheduling.
