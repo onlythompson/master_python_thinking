@@ -32,37 +32,40 @@ Data Structures are important because they help in the following:
 
 There is a famous saying: "Data Structures can be the difference between having an **OK** product and an **OUTSTANDING** one." They are at the core of implementing highly efficient and optimized algorithms
 
-* **[Arrays and Strings](/arrays_and_strings/fundamenetals.md):** Fundamental knowledge and concepts
+* **[Arrays and Strings](/arrays_and_strings/array_fundamentals.md):** Fundamental knowledge and concepts
 
-* **[Linked Lists](/linked_lists/fundamentals.md):** Master the art of chaining data elegantly and efficiently.
+* **[Linked Lists](/linkedlist/linkedlist.md):** Master the art of chaining data elegantly and efficiently.
 
-* **[Stacks and Queues](/stacks_and_queues/fundamentals.md):** Harness the power of Last-In-First-Out and First-In-First-Out structures.
+* **[Stacks and Queues](/stack_and_queue/stack_and_queue.md):** Harness the power of Last-In-First-Out and First-In-First-Out structures.
 
 * **[Trees](/trees/fundamentals.md):** Branch out into hierarchical data organization and traversal techniques.
 
-* **[Binary Trees](/binary_trees/fundamentals.md):** Explore the balance of left and right in this fundamental tree structure.
+* **[Binary Trees](/trees/binarty_tree.md):** Explore the balance of left and right in this fundamental tree structure.
 
-* **[Binary Search Trees (BST)](/binary_search_trees/fundamentals.md):** Unlock rapid search, insertion, and deletion in ordered data sets.
+* **[Binary Search Trees (BST)](/trees/binary_search_tree.md):** Unlock rapid search, insertion, and deletion in ordered data sets.
 
-* **[Heaps](/heaps/fundamentals.md):** Dive into priority management with these specialized tree-based structures.
+* **[Heaps](/heaps/heap.md):** Dive into priority management with these specialized tree-based structures.
 
-* **[Hash Tables](/hash_tables/fundamentals.md):** Discover lightning-fast data retrieval through key-value magic.
+* **[Hash Tables](/hash_tables/hash_table.md):** Discover lightning-fast data retrieval through key-value magic.
 
-* **[Graphs](/graphs/fundamentals.md):** Navigate complex relationships and connections in data networks.
+* **[Graphs](/graphs/graphs.md):** Navigate complex relationships and connections in data networks.
 
-* **[Trie](/trie/fundamentals.md):** Efficiently store and search string data with this powerful prefix tree.
+* **[Trie](/trie/trie.md):** Efficiently store and search string data with this powerful prefix tree.
 
-* **[Segment Trees](/segment_trees/fundamentals.md):** Conquer range query problems with this versatile tree structure.
+* **[Segment Trees](/segment_trees/segment_trees.md):** Conquer range query problems with this versatile tree structure.
 
-* **[Fenwick Trees (Binary Indexed Trees)](/fenwick_trees/fundamentals.md):** Master cumulative frequency tables and range sum queries.
+* **[Fenwick Trees (Binary Indexed Trees)](/fenwick_trees/fenwick_trees.md):** Master cumulative frequency tables and range sum queries.
 
-* **[Disjoint Set (Union-Find)](/disjoint_set/fundamentals.md):** Manage grouped elements with this efficient data structure.
+* **[Disjoint Set (Union-Find)](/disjoint_set/disjoint_set.md):** Manage grouped elements with this efficient data structure.
 
-* **[AVL Trees](/avl_trees/fundamentals.md):** Maintain balance in search operations with self-balancing binary search trees.
+* **[AVL Trees](/trees/avl_tree.md):** Maintain balance in search operations with self-balancing binary search trees.
 
-* **[Red-Black Trees](/red_black_trees/fundamentals.md):** Ensure efficiency with this self-balancing tree's unique coloring system.
+* **[Red-Black Trees](/trees/red_black._tree.md):** Ensure efficiency with this self-balancing tree's unique coloring system.
 
-* **[B-Trees](/b_trees/fundamentals.md):** Scale your data management for large datasets and file systems.
+* **[B-Trees](/trees/b_trees.md):** Scale your data management for large datasets and file systems.
+* **[Suffix-Trees](/trees/suffix_tree.md):** Unravel the hidden patterns in strings for lightning-fast substring searches.
+* **[R-Tree](/r_tree/r_tree.md):** Navigate multidimensional space efficiently with this hierarchical spatial index.
+* **[Vertex Buffer](/vertex_buffer/vertex_bufeer.md):** Accelerate graphics rendering by optimizing geometry data for GPU processing.
 
 
 ## ✨ Algorithms  Techniques Covered (so far)
