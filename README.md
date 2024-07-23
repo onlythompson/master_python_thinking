@@ -67,27 +67,30 @@ There is a famous saying: "Data Structures can be the difference between having 
 * **[R-Tree](/r_tree/r_tree.md):** Navigate multidimensional space efficiently with this hierarchical spatial index.
 * **[Vertex Buffer](/vertex_buffer/vertex_bufeer.md):** Accelerate graphics rendering by optimizing geometry data for GPU processing.
 
+## ✨ Important Things To Know:
+* **[Asymptotic Analysis](/asymptotic_analysis.md):**  The basis of optimization
+* **[Time and Space Complexity](/tc_sc_asc.md):**  The evaluation benchmarks in computations
 
 ## ✨ Algorithms  Techniques Covered (so far)
 * **[Foundational Concepts](/foundational_concepts.md):** Unlock the secrets of Pattern Matching, master Algorithmic Thinking, and cultivate your Problem-Solving Intuition
-* **[Brute Force](/arrays_and_strings.md):** The intuition guide to problem-solving. The craftman's pliers
-* **[Two Pointer Technique](/arrays_and_strings.md):** The Swiss Army Knife of problem-solving. Harness the elegance of dual indices to slice through array challenges with precision and speed.
-* **[Sliding Technique](/arrays_and_strings.md):** Glide through arrays with finesse, optimizing subarray operations with this dynamic technique.
-* **[K-Way Merge](/arrays_and_strings.md):** A vital tool in your technique toolbox
-* **[Prefix and Suffix Thinking](/arrays_and_strings.md):** The unusual allen key. Unveil hidden patterns and optimize calculations by mastering cumulative computations from both ends
-* **[Two Pass Approach](/arrays_and_strings.md):**  Reveal the unseen in complex problems by strategically traversing data multiple times.
-* **[Subsets](/arrays_and_strings.md):** A convention to note. Explore the power of combinations and unleash new perspectives on problem-solving.
+* **[Brute Force](/techniques/brute_force.md):** The intuition guide to problem-solving. The craftman's pliers
+* **[Two Pointer Technique](/techniques/two_pointer.md):** The Swiss Army Knife of problem-solving. Harness the elegance of dual indices to slice through array challenges with precision and speed.
+* **[Sliding Technique](/techniques/sliding_window.md):** Glide through arrays with finesse, optimizing subarray operations with this dynamic technique.
+* **[K-Way Merge](/techniques/k_way_merge.md):** A vital tool in your technique toolbox
+* **[Prefix and Suffix Thinking](/techniques/prefix_and_suffix_thinking.md):** The unusual allen key. Unveil hidden patterns and optimize calculations by mastering cumulative computations from both ends
+* **[Two Pass Approach](/techniques/two_pass_approach.md):**  Reveal the unseen in complex problems by strategically traversing data multiple times.
+* **[Subsets](/techniques/subsets.md):** A convention to note. Explore the power of combinations and unleash new perspectives on problem-solving.
 * **[Permutations](/techniques/permutations.md):** Unlock the Combinatorial Secrets! 🔀✨ Master the art of rearrangement and harness the power of ordered possibilities in your algorithmic arsenal.
 
-* ... (More algorithms techniques to come!)
+* ... [(More algorithms techniques!)](/techniques/intro_techniques.md)
 
 
 ## Algorithms Covered (so far)
-* **Sorting:** Bubble sort, insertion sort, merge sort, quicksort...
-* **Searching:** Linear search, binary search...
-* **Graph Algorithms:** Breadth-first search (BFS), depth-first search (DFS), Dijkstra's algorithm...
+* **Sorting:** [Bubble sort](/algorithms/sorting/bubble_sort.md), [Insertion sort](/algorithms/sorting/insertion_sort.md), [Seletion Sort](/algorithms/sorting/selection_sort.md), [Merge sort](/algorithms/sorting/merge_sort.md), [Quicksort](/algorithms/sorting/quick_sort.md)...
+* **Searching:** [Linear Search](/algorithms/searching/linear_search.md), [Binary Search](/algorithms/searching/binary_search.md), [Modified Binary Search](/algorithms/searching/modified_binary_search.md)...
+* **Graph Algorithms:** [Breadth-first search (BFS)](/algorithms/trees_and_graphs_traversals/bfs.md), [Depth-first search (DFS)](/algorithms/trees_and_graphs_traversals/dfs.md), [Bidirectional Search](/algorithms/trees_and_graphs_traversals/bidrectional_search.md), Dijkstra's algorithm...
 * **Dynamic Programming:** Fibonacci sequence, knapsack problem...
-* ... (More algorithms to come!)
+* ... [(More algorithms!)](/algorithms/algorithms.md)
 
 ## 💡 How to Use This Repository
 
