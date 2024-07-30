@@ -199,5 +199,5 @@ Are you ready to embark on your array adventure? The cosmos of code awaits! 🚀
 Remember, young code-mage, with great power comes great responsibility. Use your array and string powers wisely, and you'll conquer the coding realm! 🏆✨  
 Are you ready to embark on this thrilling journey through the land of Arrays and Strings? Your quest awaits! 🚀
 
-
-[Common Problems to Enhance Understanding](/arrays_and_strings/code_challenges/intro_array_challenges.md)
+- [Nested Arrays](/arrays_and_strings/nested_arrays.md)
+- [Common Problems to Enhance Understanding](/arrays_and_strings/code_challenges/intro_array_challenges.md)

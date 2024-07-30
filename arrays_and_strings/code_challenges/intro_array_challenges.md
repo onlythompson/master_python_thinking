@@ -1,7 +1,3 @@
-Here's an enhanced, more engaging version of your content:
-
----
-
 # 🧱 Building Your Coding Empire: The Array and String Foundation 🏗️
 
 Welcome, future code architects! 👷‍♀️👷‍♂️ You're about to embark on a journey to master the cornerstones of data structures: Arrays and Strings. These aren't just lines of code; they're the Lego bricks of our digital world!
@@ -28,6 +24,13 @@ Prepare to stretch your coding muscles with these challenges, inspired by the le
 
 3. [The Palindrome Permutation Caper](/arrays_and_strings/code_challenges/cracking_the_code_interview/perm_panlindrome_check.md)
    Dive into the mirror world of palindromes, where words and phrases play tricks on your perception!
+4. [The String Compressor:](/arrays_and_strings/code_challenges/cracking_the_code_interview/str_compressor.md) Squish and Squash
+Master the art of condensing repeating characters, turning "aabcccccaaa" into "a2b1c5a3" faster than you can say "compression"!
+
+### Others
+- [One or Zero Edit Away](/arrays_and_strings/code_challenges/cracking_the_code_interview/one_edit.md)
+- [Matrix Rotation](/arrays_and_strings/code_challenges/cracking_the_code_interview/matrix_rotation.md)
+
 
 Each challenge is a new adventure, designed to sharpen your skills and deepen your understanding of arrays and strings. Are you ready to level up?
 
